@@ -1,2 +1,3 @@
-2024/06/18-00:42:47.201 4324 Creating DB C:\Users\a\git_test\chr1\Data\profile\Default\Extension Scripts since it was missing.
-2024/06/18-00:42:47.211 4324 Reusing MANIFEST C:\Users\a\git_test\chr1\Data\profile\Default\Extension Scripts/MANIFEST-000001
+2024/06/19-12:27:44.027 6288 Reusing MANIFEST C:\Users\a\python\stozu\!pushable folder\Data\profile\Default\Extension Scripts/MANIFEST-000001
+2024/06/19-12:27:44.028 6288 Recovering log #3
+2024/06/19-12:27:44.029 6288 Reusing old log C:\Users\a\python\stozu\!pushable folder\Data\profile\Default\Extension Scripts/000003.log 

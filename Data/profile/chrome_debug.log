@@ -1,0 +1,7 @@
+[26332:26464:0619/122743.529:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 126.0.6478.62 (not a warning)
+[26332:26464:0619/122743.671:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[26332:26464:0619/122743.732:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[26332:26464:0619/122743.846:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[26332:26464:0619/122755.766:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:7973
+[26332:26464:0619/122805.659:INFO:CONSOLE(20)] "Promises support:  true", source: chrome-extension://hlkenndednhfkekhgcdicdfddnkalmdm/interface/lib/browserDetector.js (20)
+[26332:26464:0619/122805.659:INFO:CONSOLE(27)] "SidePanel support:  true", source: chrome-extension://hlkenndednhfkekhgcdicdfddnkalmdm/interface/lib/browserDetector.js (27)

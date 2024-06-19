@@ -5,9 +5,8 @@ import time
 import os
 script_path = os.path.abspath(os.path.dirname(__file__))
 options=webdriver.ChromeOptions()
-options.binary_location = (f'{script_path+'/App/Chrome-bin/chrome.exe'}')
-options.add_argument(f'user-data-dir={script_path+'/Data/profile'}')
-options.add_argument('--profile-directory=Default')
+options.binary_location = os.path.expandvars('%LOCALAPPDATA%/Chromium/Application/chrome.exe')
+options.add_argument(f'user-data-dir={script_path+'/User Data'}')
 options.add_argument('--disable-blink-features=AutomationControlled')
 options.add_argument("--incognito")
 options.add_experimental_option("excludeSwitches", ["enable-automation"])

@@ -1,9 +1,9 @@
+# this code is outdated and patched
+**New version is at https://github.com/Noob-Lol/stozu-auto-farm-v2**
 ## What is this:
 Automated credit farm on [stozu](https://dash.stozu.net/), speed is ~45 per minute, depends on your device perfomance and browser settings.
 
 Made on Python with Selenium WebDriver. Custom chrome profile included.
-
-**Updated so it actually works for everyone!**
 # Requirements:
 - [Python](https://www.python.org/downloads/), selenium: ```pip install selenium```
 - [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/latest), download and run installer
